@@ -1,0 +1,4 @@
+retrieved from:
+https://github.com/tensorflow/datasets/blob/master/tensorflow_datasets/datasets/ag_news_subset/ag_news_subset_dataset_builder.py
+read more:
+https://www.tensorflow.org/datasets/catalog/ag_news_subset
