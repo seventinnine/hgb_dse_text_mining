@@ -1,0 +1,7 @@
+Amazon Fine Food Reviews
+
+by Stanford Network Analysis Project
+
+Licensed under CC0: Public Domain
+
+Retrieved from https://www.kaggle.com/datasets/snap/amazon-fine-food-reviews
