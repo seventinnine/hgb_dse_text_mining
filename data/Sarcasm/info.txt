@@ -1,0 +1,6 @@
+News Headlines Dataset For Sarcasm Detection
+
+(c) Rishabh Misra
+
+https://rishabhmisra.github.io/publications/
+https://rishabhmisra.github.io/NewsHeadlinesDataset.pdf
