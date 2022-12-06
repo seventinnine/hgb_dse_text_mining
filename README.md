@@ -7,8 +7,8 @@ Contents for the practical part of the lecture Text Mining @ FH Hagenberg.
 If you want to run the notebooks locally please install the requirements noted in `requirements.txt`:
 - `pip install -r requirements.txt`
 
-For chapters 5 and 6 you will additionally need `tensorflow`, `seaborn` and `transformers`:
-- `pip install tensorflow seaborn transformers`
+For chapters 5 and 6 you will additionally need `tensorflow` and `transformers`:
+- `pip install tensorflow transformers`
 
 ## Chapters
 
