@@ -4,6 +4,9 @@ Contents for the practical part of the lecture Text Mining @ FH Hagenberg.
 
 ## Requirements
 
+Language:
+- [Python 3.12](https://www.python.org/downloads/)
+
 If you want to run the notebooks locally please install the requirements noted in `requirements.txt`:
 - `pip install -r requirements.txt`
 
@@ -20,7 +23,7 @@ For chapters 5 and 6 you will additionally need `tensorflow` and `transformers`:
 - Chapter 5: Sentiment Analysis -> [open in Google Colab](https://colab.research.google.com/github/michabirklbauer/hgb_dse_text_mining/blob/master/Sentiment.ipynb)
 - Chapter 6: Image Captioning -> [open in Google Colab](https://colab.research.google.com/github/michabirklbauer/hgb_dse_text_mining/blob/master/Captioning.ipynb)
 
-Solutions for the exercises will be available at [michabirklbauer/hgb_dse_text_mining_solutions](https://github.com/michabirklbauer/hgb_dse_text_mining_solutions) *after* the lecture.
+Solutions for the exercises will be available at [michabirklbauer/hgb_dse_text_mining_solutions](https://github.com/michabirklbauer/hgb_dse_text_mining_solutions) *after* the lectures.
 
 ## References
 
@@ -30,4 +33,5 @@ Solutions for the exercises will be available at [michabirklbauer/hgb_dse_text_m
 
 ## Contact
 
-[micha.birklbauer@fh-hagenberg.at](mailto:micha.birklbauer@fh-hagenberg.at)
+- [micha.birklbauer@gmail.com](mailto:micha.birklbauer@gmail.com)
+- [micha.birklbauer@fh-hagenberg.at](mailto:micha.birklbauer@fh-hagenberg.at)
